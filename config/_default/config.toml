@@ -1,0 +1,14 @@
+# 部署後的URL (不影響local端)
+baseurl = "https://KenLu0929.github.io/"
+
+# 使用模板
+theme = "cleanwhite"
+
+# 模板資料夾
+themesDir = "themes"
+
+# 每頁顯示文章數量
+paginate = 10
+
+# 預設語系
+defaultContentLanguage = "zh-tw"

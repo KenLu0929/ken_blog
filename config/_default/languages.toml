@@ -1,0 +1,10 @@
+##################### 繁體中文 ##########################
+[zh-tw]
+title = "標題-繁中測試"
+hasCJKLanguage = true
+weight = 1
+
+##################### English ##########################
+[en]
+title = "title-en test"
+weight = 2
