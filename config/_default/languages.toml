@@ -2,9 +2,11 @@
 [zh-tw]
 title = "標題-繁中測試"
 hasCJKLanguage = true
+LanguageName = "繁體中文"
 weight = 1
 
 ##################### English ##########################
 [en]
 title = "title-en test"
+LanguageName = "English"
 weight = 2
